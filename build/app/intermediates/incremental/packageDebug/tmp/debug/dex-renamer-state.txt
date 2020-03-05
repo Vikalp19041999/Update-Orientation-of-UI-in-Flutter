@@ -1,0 +1,4 @@
+#Thu Mar 05 16:49:29 IST 2020
+base.0=/home/ulcom17/Desktop/Flutter/update_orientation_on_ui/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
